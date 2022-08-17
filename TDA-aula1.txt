@@ -1,0 +1,27 @@
+1- Faça um algoritmo para enviar um e-mail para uma pessoa.
+
+1) apertar botão de ligar do computador;
+2) esperar o computador ligar;
+3) arraste o mouse até o seu navegador de preferência e clique 2x ou aperte o botão do windows e arraste para baixo a barra de programas até selecionar o seu navegador;
+4) com o seu navegador aberto arraste o mouse até a barra de pesquisa e clique;
+5) caso o seu email seja hotmail digite hotmail, caso seja gmail digite gmail, caso seja yahoo digite yahoo;
+6) após digitado precione com o teclado o botão enter ou com o mouse clique no botão de pesquisa do seu navegador;
+7) dentre todos os links mostrados use o mouse para selecionar aquele que direciona para seu email;
+8) dentro do seu email arraste o mouse e clique na opção para compor um novo email;
+9) digite o email da pessoa que você gostaria de mandar o email onde pedir;
+10) digite o assunto do email no campo que pedir;
+11) digite ou selecione arquivos que queira mandar no email no campo que for requirido;
+12) após todos os campos preenchidos arraste o mouse e clique no botão de enviar;
+
+
+2- Faça um algoritmo para agendamento de uma consulta médica.
+
+1) caso o agendamento seja feito pelo celular pegue o celular;
+2) desbloquei o celular;
+3) use o appstore para baixar o aplicativo do hospital usando a barra de pesquisa pesquisando pelo nome do hospital;
+4) aperte o botao de baixar;
+5) após instalado abra o aplicativo;
+6) no aplicativo vá em agendamento e preencha todos os campos requiridos;
+7) caso o agendamento seja feito no presencial é preciso ir até um posto de saúde ou até um hospital;
+8) indo até o posto de saúde ou até o hospital procurar a fila de atendimento;
+9) quando sua vez chegar falar para o(a) recepcionista para marcar uma consulta médica;

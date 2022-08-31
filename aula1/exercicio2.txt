@@ -1,0 +1,11 @@
+2-) Faça um algoritmo para agendamento de uma consulta médica.
+
+1) caso o agendamento seja feito pelo celular pegue o celular;
+2) desbloquei o celular;
+3) use o appstore para baixar o aplicativo do hospital usando a barra de pesquisa pesquisando pelo nome do hospital;
+4) aperte o botao de baixar;
+5) após instalado abra o aplicativo;
+6) no aplicativo vá em agendamento e preencha todos os campos requiridos;
+7) caso o agendamento seja feito no presencial é preciso ir até um posto de saúde ou até um hospital;
+8) indo até o posto de saúde ou até o hospital procurar a fila de atendimento;
+9) quando sua vez chegar falar para o(a) recepcionista para marcar uma consulta médica;

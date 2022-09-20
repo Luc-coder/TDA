@@ -1,5 +1,5 @@
 algoritimo data
-Int data, dia, mes, ano
+inteiro data, dia, mes, ano
 Inicio
     escreva("Qual a data?")
     leia(data)

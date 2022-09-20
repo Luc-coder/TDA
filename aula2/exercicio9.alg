@@ -1,5 +1,5 @@
 algoritimo restante
-    Inteiro = a, b, resto
+    inteiro = a, b, resto
 Inicio
     escreva("Qual o valor do 1° número")
     leia(a)

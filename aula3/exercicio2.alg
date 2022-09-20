@@ -1,5 +1,5 @@
 algoritimo area
-    Real = lado1, lado2, resultadoArea
+    real = lado1, lado2, resultadoArea
 Inicio
     escreva("Qual o valor do lado 1?")
     leia(lado1)
@@ -8,8 +8,8 @@ Inicio
     resultadoArea = soma(lado1, lado2)
     escreva("A área do retângulo é " + resultadoArea " cm²")
 Fim
-Real soma(Real lado1, Real lado2)
-    Real resultado
+real soma(real lado1, real lado2)
+    real resultado
     reusltado = lado1 * lado2
     retorne (resultado)
 Fim

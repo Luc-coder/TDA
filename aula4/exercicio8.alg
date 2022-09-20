@@ -1,5 +1,5 @@
 algoritimo degrau
-Real alturaDegrau, alturaEscada, qteDegrau
+real alturaDegrau, alturaEscada, qteDegrau
 Inicio
     escreva("Qual a altura dos degraus em METROS?")
     leia(degrau)

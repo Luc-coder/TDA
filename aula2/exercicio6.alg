@@ -1,5 +1,5 @@
 algoritimo cerca
-    Real = a, b, c
+    real = a, b, c
 Inicio
     escreva("Qual o valor da rua do sol?")
     leia(b)

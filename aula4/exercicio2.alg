@@ -1,5 +1,5 @@
 algoritimo luz
-Real salario, kgw, valorTotal, kgwatts
+real salario, kgw, valorTotal, kgwatts
 Inicio
     escreva("Qual o valor do seu salário mínimo?")
     leia(salario)

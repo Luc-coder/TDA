@@ -1,5 +1,5 @@
 algoritimo conversor
-    Real = dolar, real
+    real = dolar, real
 Inicio
     escreva("Qual o valor do dolar?")
     leia(dolar)

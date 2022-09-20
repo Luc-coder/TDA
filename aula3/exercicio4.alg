@@ -1,5 +1,5 @@
 algoritimo baskara2
-    Inteiro = a, b, c, resultadoDelta, resultadoX1, resultadoX2
+    inteiro = a, b, c, resultadoDelta, resultadoX1, resultadoX2
 Inicio
     escreva("Qual o valor de a?")
     leia(a)
@@ -14,16 +14,16 @@ Inicio
     resultadoX2 = x2(a, b, delta)
     escreva("O resultado do x2 é" + x2)
 Fim
-    Inteiro delta(a, b, c)
-        Inteiro resultadoDelta
+    inteiro delta(a, b, c)
+        inteiro resultadoDelta
         resultadoDelta = (b^2) - (4 * a * c)
         retorne(resultadoDelta)
-    Inteiro x1(a, b, delta)
-        Inteiro resultadoX1
+    inteiro x1(a, b, delta)
+        inteiro resultadoX1
         resultadoX1 = -b + raiz(delta) / 2* a
         retorne(resultadoX1)
-    Inteiro x2(a, b, delta)
-        Inteiro resultadoX1
+    inteiro x2(a, b, delta)
+        inteiro resultadoX1
         resultadoX2 = -b - raiz(delta) / 2* a
         retorne(resultadoX2)
 Fim

@@ -1,5 +1,5 @@
 algoritimo area
-    Real = base, altura, area
+    real = base, altura, area
 Inicio
     escreva("Qual o valor da base?")
     leia(base)

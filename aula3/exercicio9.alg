@@ -1,5 +1,5 @@
 algoritimo imc
-    Real = altura, peso, resultado
+    real = altura, peso, resultado
 Inicio
     escreva("Qual a sua altura?")
     leia(altura)
@@ -8,8 +8,8 @@ Inicio
     resultado = soma(altura, peso)
     escreva("o valor do seu IMC é " + resultado)
 Fim
-Real soma(Real altura, Real peso)
-    Real = resultado
+real soma(real altura, real peso)
+    real = resultado
     resultado = (altura * 2) / peso
     retorne(resultado)
 Fim

@@ -1,6 +1,6 @@
 algoritimo medicamentos
-    Literal = medicamentos1, medicamentos2
-    Real = valor1, valor2
+    literal = medicamentos1, medicamentos2
+    real = valor1, valor2
 Inicio
     escreva("Qual o nome do primeiro medicamento?")
     leia(medicamentos1)

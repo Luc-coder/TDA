@@ -1,5 +1,5 @@
 algoritimo gorjeta
-    Real = conta, gorjeta
+    real = conta, gorjeta
 Inicio
     escreva("Qual o valor da conta?")
     leia(conta)

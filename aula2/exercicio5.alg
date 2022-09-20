@@ -1,5 +1,5 @@
 algoritimo baskara
-    Real = a, b, c, delta, x1, x2
+    real = a, b, c, delta, x1, x2
 Inicio
     escreva("Qual o valor de a")
     leia(a)

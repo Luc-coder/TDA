@@ -1,6 +1,6 @@
 algoritimo funcionario
     literal = nome, cargo
-    Int = depedentes
+    inteiro = depedentes
 Inicio 
     escreva("Qual o seu nome?")
     leia(nome)

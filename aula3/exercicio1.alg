@@ -1,5 +1,5 @@
 algoritimo corrida
-    Real = kmInicial, kmFinal, litrosGastos, precoLitro, resultado1, resultado2
+    real = kmInicial, kmFinal, litrosGastos, precoLitro, resultado1, resultado2
 Inicio
     escreva("Qual é o km inicial?")
     leia(kmInicial)
@@ -14,11 +14,11 @@ Inicio
     resultado2 = resultadoGasolina(litrosGastos, precoLitro)
     escreva("Foram gastos" , litroGasto, "litros de gasolina que custou R$" , resultadoGasolina , "com a gasolina custando R$" , precoLitro)
 Fim
-Real = resultados(Inteiro kmInicial, Inteiro kmFinal, Inteiro litrosGastos, Real precoLitro)
-    Inteiro resultadoKm
+real = resultados(Inteiro kmInicial, Inteiro kmFinal, Inteiro litrosGastos, Real precoLitro)
+    inteiro resultadoKm
     resultadoKm = kmFinal - kmInicial
     retorne(resultadoKm)
-    Real resultadoGasolina
+    real resultadoGasolina
     resultadoGasolina = litrosGastos * precoLitro
     retorne(resultadoGasolina)
 Fim

@@ -1,5 +1,5 @@
 algoritimo
-Real alturaEscada, alturaQuadro, distanciaEscada
+real alturaEscada, alturaQuadro, distanciaEscada
 Inicio
     escreva("Qual a altura da escada?")
     leia(alturaEscada)

@@ -1,5 +1,5 @@
 algoritimo cilindro
-    Real = h, r, volume
+    real = h, r, volume
 Inicio
     escreva("Qual a altura do cilindro?")
     leia(h)

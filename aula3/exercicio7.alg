@@ -1,5 +1,5 @@
 algoritimo pregos
-    Real = quantidadeTelheiro, quantidadeQuadrado, resultadoSemDesconto, resultadoTotal
+    real = quantidadeTelheiro, quantidadeQuadrado, resultadoSemDesconto, resultadoTotal
 Inicio
     escreva("Quantos pregos telheiros foram vendidos?")
     leia(quantidadeTelheiro)
@@ -10,8 +10,8 @@ Inicio
     resultadoTotal = soma(quantidadeTelheiro, quantidadeQuadrado)
     escreva("O valor da comissão é de R$" + resultadoTotal + " reais")
 Fim
-Real soma(quantidadeTelheiro, quantidadeQuadrado)
-    Real resultadoSemDesconto, resultadoTotal
+real soma(quantidadeTelheiro, quantidadeQuadrado)
+    real resultadoSemDesconto, resultadoTotal
     resultadoSemDesconto = (quantidadeTelheiro * 1.05) + (quantidadeQuadrado * 0.51)
     resultadoTotal = (resultadoSemDesconto * 10) / 100
     retorne(resultadoSemDesconto)

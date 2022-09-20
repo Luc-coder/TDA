@@ -1,5 +1,5 @@
 algoritimo cofre
-    Inteiro = quantidadeVinteCinco, quantidadeDez, quantidadeCinco, resultado
+    inteiro = quantidadeVinteCinco, quantidadeDez, quantidadeCinco, resultado
 Inicio
     escreva("Quantas moedas de 25 centavos serão guardadadas?")
     leia(quantidadeVinteCinco)

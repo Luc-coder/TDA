@@ -1,5 +1,5 @@
 algoritimo rendimento
-Real deposito, juros, resultado, resultadoTotal
+real deposito, juros, resultado, resultadoTotal
 Inicio
     escreva("Qual o valor do depósito?")
     leia(deposito)

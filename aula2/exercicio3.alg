@@ -1,5 +1,5 @@
 algoritimo areaTotal
-    Real = a1, a2, b1, b2, d, a1, a2, at, soma1, soma2, soma3
+    real = a1, a2, b1, b2, d, a1, a2, at, soma1, soma2, soma3
 Inicio
     escreva("Vamos calcular a área do primeiro retângulo. Qual sua altura?")
     leia(b1)

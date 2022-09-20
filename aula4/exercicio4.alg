@@ -1,5 +1,5 @@
 algoritimo salario do funcionario
-Real salarioM, salario, qte
+real salarioM, salario, qte
 Inicio
     escreva("digite o valor do salário mínimo")
     leia(salarioM)

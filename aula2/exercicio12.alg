@@ -1,5 +1,5 @@
 algoritimo triplo
-    Real = a, resultado
+    real = a, resultado
 Inicio
     escreva("Qual o número?")
     leia(a)

@@ -1,5 +1,5 @@
 algoritimo contas
-    Inteiro = a, b resultado
+    inteiro = a, b resultado
 Inicio
     escreva("Qual o valor do 1° número")
     leia(a)

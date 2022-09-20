@@ -1,5 +1,5 @@
 algoritimo horas
-    Inteiro = hora, minuto, minutagem
+    inteiro = hora, minuto, minutagem
 Inicio
     escreva("Quantas horas se passaram?")
     leia(hora)

@@ -1,5 +1,5 @@
 algoritimo percentual
-Real salario, percentual
+real salario, percentual
 Inicio
     escreva("Qual o valor do seu salário")
     leia(salario)
@@ -7,8 +7,8 @@ Inicio
     leia(percentual)
     escreva("O valor do seu salário novo é " + calcularSalario)
 Fim
-Real calcularSalario(real salario, real percentual)
-Real resultado
+real calcularSalario(real salario, real percentual)
+real resultado
 resultado = salario * percentual / 100
 retorne resultado
 Fim

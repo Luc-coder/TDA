@@ -1,5 +1,5 @@
 algoritio cargo
-interio codigo
+inteiro codigo
 real aumento, resultado, salario
 literal cargo
 Inicio
